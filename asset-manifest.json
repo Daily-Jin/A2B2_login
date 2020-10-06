@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/A2B2_login/static/css/main.4ead9fd2.chunk.css",
+    "main.js": "/A2B2_login/static/js/main.9a41bef6.chunk.js",
+    "main.js.map": "/A2B2_login/static/js/main.9a41bef6.chunk.js.map",
+    "runtime-main.js": "/A2B2_login/static/js/runtime-main.3a4ffb9e.js",
+    "runtime-main.js.map": "/A2B2_login/static/js/runtime-main.3a4ffb9e.js.map",
+    "static/css/2.8aa5a7f8.chunk.css": "/A2B2_login/static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.8caf0c9d.chunk.js": "/A2B2_login/static/js/2.8caf0c9d.chunk.js",
+    "static/js/2.8caf0c9d.chunk.js.map": "/A2B2_login/static/js/2.8caf0c9d.chunk.js.map",
+    "index.html": "/A2B2_login/index.html",
+    "precache-manifest.5c9c987f1e16000bd2cbee5b36f7dad2.js": "/A2B2_login/precache-manifest.5c9c987f1e16000bd2cbee5b36f7dad2.js",
+    "service-worker.js": "/A2B2_login/service-worker.js",
+    "static/css/2.8aa5a7f8.chunk.css.map": "/A2B2_login/static/css/2.8aa5a7f8.chunk.css.map",
+    "static/css/main.4ead9fd2.chunk.css.map": "/A2B2_login/static/css/main.4ead9fd2.chunk.css.map",
+    "static/js/2.8caf0c9d.chunk.js.LICENSE.txt": "/A2B2_login/static/js/2.8caf0c9d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a4ffb9e.js",
+    "static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.8caf0c9d.chunk.js",
+    "static/css/main.4ead9fd2.chunk.css",
+    "static/js/main.9a41bef6.chunk.js"
+  ]
+}
