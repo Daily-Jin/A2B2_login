@@ -28,7 +28,7 @@ function App() {
       </div>
       <TwitterLoginButton className="mt-3 mb-3"/>
       <div className="text-center">
-        <a href="/sign-up">비밀번호</a>
+        <a href="/sign-up">회원가입</a>
         <span className="p-2">|</span>
         <a href="/forgot-password">비밀번호 찾기</a>
       </div>
